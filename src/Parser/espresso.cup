@@ -286,7 +286,7 @@ non terminal Expression dim_expr;
 non terminal Sequence dim_exprs, dims_opt, dims;
 non terminal FieldRef field_access;
 non terminal Invocation method_invocation;
-non terminal ArrayAcessExpr array_access;
+non terminal ArrayAccessExpr array_access;
 non terminal Expression postfix_expression;
 non terminal UnaryPostExpr post_increment_expression, post_decrement_expression;
 non terminal UnaryPreExpr unary_expression;
