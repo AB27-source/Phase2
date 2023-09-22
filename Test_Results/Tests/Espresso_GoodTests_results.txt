@@ -1,0 +1,205 @@
+Test Results for Tests/Phase2/Espresso/GoodTests
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ BinExpr1.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ BinExpr2.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ Bin.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ BreakContinue.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ Class1.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ Class2.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ Class3.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ Dotdotdot.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ Fermat.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ FieldInits_Constructors.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ For1.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ If.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ Init1.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ LeftOver.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ Method1.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ Method2.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ Method3.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ MultiAssign.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ NestedFor.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ New1.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ Power.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ Queen.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ Sort.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ StaticTest1.java - FAILED
+Exception in thread "main" java.lang.NoClassDefFoundError: Utilities/Settings
+	at Espressoc.main(Espressoc.java:99)
+Caused by: java.lang.ClassNotFoundException: Utilities.Settings
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 1 more
+❌ While.java - FAILED
+-----------------------------------
+Total tests: 25
+Passed: 0
+Failed: 25
